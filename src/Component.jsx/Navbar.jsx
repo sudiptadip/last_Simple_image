@@ -23,7 +23,7 @@ export default function Navbar() {
           color: "white",
         }}
       >
-        <Link style={{ textDecoration: "none", color: "white" }} to={"/"}>
+        <Link style={{ textDecoration: "none", color: "black" }} to={"/"}>
           <p>Home</p>
         </Link>
         <Link style={{ textDecoration: "none", color: "white" }} to={"/image"}>
